@@ -1,0 +1,71 @@
+{
+  "project_info": {
+    "project_number": "753515488383",
+    "firebase_url": "https://boy-and-girl-ef466.firebaseio.com",
+    "project_id": "boy-and-girl-ef466",
+    "storage_bucket": "boy-and-girl-ef466.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:753515488383:android:4f48523ed2a42c91f54b4a",
+        "android_client_info": {
+          "package_name": "com.innovidea.boyngirl"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "753515488383-dgug8jo7bk885msco0t31o4evonaiuv8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.innovidea.boyngirl",
+            "certificate_hash": "26a9b304c2494b9e7859ff12a02011b5bc16c284"
+          }
+        },
+        {
+          "client_id": "753515488383-ghk0mcj7brv7i85ig0444gki5m4g54hi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.innovidea.boyngirl",
+            "certificate_hash": "10874a5e5f4c410b22badabd1cfd6f4872e5756b"
+          }
+        },
+        {
+          "client_id": "753515488383-mi6ktno69a2k64i7p4bb8asf4avrgb0m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.innovidea.boyngirl",
+            "certificate_hash": "bc1157fdbcb41927b20870a0af34c717085ac36b"
+          }
+        },
+        {
+          "client_id": "753515488383-l66pus6jh8eqvmvg0uiicbo2bkbi3s7l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABoJiMQE_SRAEQk7PecB3Xu9_ebNl0_DQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "753515488383-bhgj352sa3rjvhakrkt3ifau3uau78qh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "753515488383-el4vglr2626v0elpubbkok2q15nrs9iq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.innovidea.boyngirl"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

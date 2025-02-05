@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>753515488383-i0m06no3nb7l96tsomb3ivdrh3hjclnv.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.753515488383-i0m06no3nb7l96tsomb3ivdrh3hjclnv</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>753515488383-dgug8jo7bk885msco0t31o4evonaiuv8.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDjOAyGsFh-7Fgvkj6f2aQ3J54Tci23ls0</string>
+	<key>GCM_SENDER_ID</key>
+	<string>753515488383</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.iOS.BoynGirl</string>
+	<key>PROJECT_ID</key>
+	<string>boy-and-girl-ef466</string>
+	<key>STORAGE_BUCKET</key>
+	<string>boy-and-girl-ef466.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:753515488383:ios:7befddf4e607b917f54b4a</string>
+	<key>DATABASE_URL</key>
+	<string>https://boy-and-girl-ef466.firebaseio.com</string>
+</dict>
+</plist>
