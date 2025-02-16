@@ -18,7 +18,7 @@ publish_to: 'none' # Remove this line if you wish to publish to pub.dev
 # https://developer.apple.com/library/archive/documentation/General/Reference/InfoPlistKeyReference/Articles/CoreFoundationKeys.html
 
 # flutter pub upgrade --major-versions
-version: 5.1.0+01
+version: 4.8.3
 
 environment:
   sdk: ">=3.5.0 <4.0.0"
@@ -29,7 +29,7 @@ dependencies:
   flutter_localizations:
     sdk: flutter
 dependency_overrides:
-  google_api_headers: ^4.3.1
+  google_api_headers: 4.2.6
 
 
   badges: ^3.1.2
